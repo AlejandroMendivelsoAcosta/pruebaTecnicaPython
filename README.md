@@ -1,7 +1,7 @@
 
 # Ejercicios prueba tecnica en python
 
-Se realiza la prueba tecnica en python donde se solicita la demostracion de diferentes tecnicas para el uso del lenjuage donde entre ella el uso de SQL y creacion de API.
+Se realiza la prueba técnica en Python donde se solicita la demostración de diferentes técnicas para el uso del lenguaje, donde entre ella el uso de SQL y creación de API.
 
 
 
