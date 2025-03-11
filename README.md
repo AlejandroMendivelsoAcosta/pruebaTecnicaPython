@@ -28,7 +28,7 @@ Para el segundo ejercicio para el analisis de texto contamos con la siguiente sa
 
 Para el tercer ejercicio para la creacion de la base de datos y el ORM contamos con la siguiente salida:
 
-![App Screenshot](Pruebas/ejercicio3.png)
+![App Screenshot](Pruebas/Ejercicio3.png)
 
 Para el cuarto ejercicio para la creacion del API contamos con la siguiente salida:
 
